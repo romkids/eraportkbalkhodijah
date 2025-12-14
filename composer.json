@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "1.28",
+        "shuchkin/simplexlsx": "^1.1",
+        "shuchkin/simplexlsxgen": "^1.5"
+    }
+}
